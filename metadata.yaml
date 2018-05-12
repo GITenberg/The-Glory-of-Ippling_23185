@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25732'
     url: http://www.gutenberg.org/2009/agents/25732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23185#The-Glory-of-Ippling
 gutenberg_bookshelf:
 - Science Fiction by Women
 - Science Fiction
